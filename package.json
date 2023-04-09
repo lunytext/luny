@@ -1,0 +1,22 @@
+{
+  "name": "luny",
+  "version": "1.0.0",
+  "description": "Free and open source text editor, brought to you by Luny",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/lunytext/luny",
+  "keywords": [
+    "luny",
+    "lunytext",
+    "code",
+    "text",
+    "editor"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^23.2.2"
+  }
+}
