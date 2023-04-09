@@ -14,7 +14,7 @@
     "text",
     "editor"
   ],
-  "author": "GitHub",
+  "author": "Luny",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^23.2.2"
