@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "menlo-regular";
+    src: url('menlo-regular.woff') format('woff'),
+         url('menlo-regular.ttf') format('truetype');
+  }
+
+body {
+    font-family: menlo-regular;
+  }
