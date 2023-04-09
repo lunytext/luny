@@ -6,8 +6,17 @@
     <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'">
     <title>Luny</title>
     <link href="fonts/fonts.css" rel="stylesheet" />
+    <style>
+      .unselectable {
+        -webkit-user-select: none;
+        -webkit-touch-callout: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+    </style>
   </head>
-  <body style="text-align: center; background-color: #1a1a1a;">
+  <body style="text-align: center; background-color: #1a1a1a;" class="unselectable" onmousedown="return false" onselectstart="return false" onpaste="return false;" onCopy="return false" onCut="return false" onDrag="return false" onDrop="return false" autocomplete=off>
     
     <h1 style="color: #ffffff;">Luny Text</h1>
 
