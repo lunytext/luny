@@ -1,6 +1,6 @@
 {
   "name": "luny",
-  "version": "1.0.0",
+  "version": "1000",
   "description": "Free and open source text editor, brought to you by Luny",
   "main": "main.js",
   "scripts": {
