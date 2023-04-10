@@ -1,3 +1,5 @@
+require('v8-compile-cache');
+
 const { app, Menu, BrowserWindow, dialog } = require('electron')
 const fs = require('fs')
 
